@@ -1,0 +1,6 @@
+# backend/requirements.txt
+
+praw
+openai
+firebase-admin
+python-dotenv
