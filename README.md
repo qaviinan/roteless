@@ -198,14 +198,8 @@ For any questions or suggestions, please contact:
 
 ---
 
-*Happy Learning with Roteless!*
-```
-
----
-
 ## Backend README (`backend/README.md`)
 
-```markdown
 # Roteless Backend
 
 ![Roteless Logo](./assets/logo.png) <!-- Replace with your actual logo path -->
@@ -241,33 +235,6 @@ The **Roteless Backend** is a Python-based system designed to automate the proce
 - **Modular Architecture**: Organized codebase for maintainability and scalability.
 - **Testing**: Unit tests to ensure reliability of individual components.
 
-## Architecture
-
-```
-roteless/
-├── backend/
-│   ├── src/
-│   │   ├── config/
-│   │   │   └── config.py
-│   │   ├── firebase/
-│   │   │   └── firebase_handler.py
-│   │   ├── reddit/
-│   │   │   └── reddit_client.py
-│   │   ├── openai_client/
-│   │   │   └── openai_client.py
-│   │   ├── utils/
-│   │   │   ├── json_utils.py
-│   │   │   └── logger.py
-│   │   └── main.py
-│   ├── tests/
-│   │   ├── test_reddit_client.py
-│   │   ├── test_firebase_handler.py
-│   │   └── test_openai_client.py
-│   ├── requirements.txt
-│   ├── .env
-│   └── README.md
-└── README.md
-```
 
 ## Getting Started
 
