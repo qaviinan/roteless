@@ -3,7 +3,7 @@
 ![Home Screen](./assets/home.png) ![Quiz screen](./assets/quiz_screen.png)
 ![Account](./assets/account_screen.png) ![Signin](./assets/signin_screen.png)
 
-*Home screen displaying mnemonic memes.* &nbsp;&nbsp;&nbsp; *Meme detail view with generated mnemonic.*
+*Home screen displaying mnemonic meme feed, quiz screen and other screens.*
 
 
 ## Table of Contents
