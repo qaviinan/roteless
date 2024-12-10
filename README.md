@@ -1,3 +1,10 @@
+# Roteless
+
+![Home Screen](https://raw.githubusercontent.com/qaviinan/roteless/refs/heads/main/assets/home.png?token=GHSAT0AAAAAAC3GAAJK5R2THALJUDKJVWMEZ2YBEYA) ![Quiz screen](./assets/quiz_screen.png)
+
+*Home screen displaying mnemonic memes.* &nbsp;&nbsp;&nbsp; *Meme detail view with generated mnemonic.*
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
