@@ -186,6 +186,7 @@ coverage/
 # ===================================
 # Optional: Ignore specific directories or files
 # ===================================
+._*
 
 # Add any additional directories or files you want to ignore below
 
