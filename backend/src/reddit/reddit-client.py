@@ -1,6 +1,5 @@
 import praw
-import config
-import json
+from config import config
 
 def is_image_url(url):
     """
@@ -15,9 +14,9 @@ def is_image_url(url):
 class RedditClient:
     def __init__(self) -> None:
         self.client = praw.Reddit(
-            client_id="w_Q28DYmr9LyTwOBFDyn-A",
-            client_secret="cZc5Pl_l0K9DCIPOkWGrlI-Dmrsiqg",
-            user_agent="web:genfeed:v0.1.0 (by /u/bisonGRE)",
+            client_id=config.REDDIT_CLIENT_ID,
+            client_secret=config.REDDIT_CLIENT_SECRET,
+            user_agent=config.REDDIT_USER_AGENT,
             timeout=45
             )
         print("CONNECTED TO REDDIT:", self.client.read_only)
