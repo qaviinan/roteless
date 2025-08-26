@@ -32,7 +32,7 @@
 
 ## Overview
 
-**Roteless** is a comprehensive application designed to enhance vocabulary acquisition by converting memes into mnemonic devices using generative AI. The project consists of two main components:
+**Roteless** is a fun application designed to enhance vocabulary acquisition by converting memes into mnemonic devices using generative AI. The project consists of two main components:
 
 - **Frontend**: A Flutter-based application that fetches memes from Reddit, incorporates vocabulary into the captions using Large Language Models (LLMs), and presents the content interactively on both Android and Web platforms.
   
