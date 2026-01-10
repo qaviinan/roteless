@@ -34,7 +34,7 @@
 
 **Roteless** is a fun application designed to enhance vocabulary acquisition by converting memes into mnemonic devices using generative AI. The project consists of two main components:
 
-- **Frontend**: A Flutter-based application that fetches memes from Reddit, incorporates vocabulary into the captions using Large Language Models (LLMs), and presents the content interactively on both Android and Web platforms.
+- **Frontend**: A Flutter-based application that allows choosing a vocabulary list that you wish to learn, then displays memes with those vocabulary words in their captions, allowing you to effortlessly learn new words while scrolling memes. App also allows filtering out learned words, shows progress bar and has a flashcard quiz feature.
   
 - **Backend**: A Python-based system that automates the fetching of memes from Reddit, generates mnemonic captions using OpenAI's GPT-4, and stores the processed posts in Firebase. This backend serves data to the frontend, ensuring a seamless and engaging user experience.
 
