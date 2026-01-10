@@ -61,16 +61,6 @@
 
 ---
 
-## Screenshots
-
-![Home Screen](./assets/home_screen.png)
-*Home screen displaying mnemonic memes.*
-
-![Meme Detail](./assets/meme_detail.png)
-*Meme detail view with generated mnemonic.*
-
----
-
 ## Getting Started
 
 ### Prerequisites
